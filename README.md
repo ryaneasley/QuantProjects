@@ -1,5 +1,4 @@
 # PortfolioGenetic Optimizer.py
-
 # Overview:
 # - Implements a Genetic Algorithm (GA) to optimize portfolio's Sharpe ratio and return.
 # - Fetches monthly stock prices using yfinance.
